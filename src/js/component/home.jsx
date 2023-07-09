@@ -12,9 +12,9 @@ const Main = () => {
 				<Jumbotron />
 				<div className="card-group mb-3">
                 <Card description="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde illo culpa assumenda molestiae in."/>
-                <Card description="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae sapiente libero."/>
+                <Card description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, voluptatum iure ducimus laborum adipisci iusto itaque."/>
                 <Card description="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde illo culpa assumenda molestiae in."/>
-                <Card description="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae sapiente libero."/>
+                <Card description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, voluptatum iure ducimus laborum adipisci iusto itaque."/>
             </div>
 			</div>
 			<Footer />
