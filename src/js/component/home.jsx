@@ -11,11 +11,11 @@ const Main = () => {
 			<div className="container text-center w-75">
 				<Jumbotron />
 				<div className="card-group mb-3">
-                <Card description="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde illo culpa assumenda molestiae in."/>
-                <Card description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, voluptatum iure ducimus laborum adipisci iusto itaque."/>
-                <Card description="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde illo culpa assumenda molestiae in."/>
-                <Card description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, voluptatum iure ducimus laborum adipisci iusto itaque."/>
-            </div>
+					<Card description="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde illo culpa assumenda molestiae in."/>
+					<Card description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, voluptatum iure ducimus laborum adipisci iusto itaque."/>
+					<Card description="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde illo culpa assumenda molestiae in."/>
+					<Card description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, voluptatum iure ducimus laborum adipisci iusto itaque."/>
+            	</div>
 			</div>
 			<Footer />
 		</div>
