@@ -8,7 +8,7 @@ const Card = (props) => {
              <h5 className="card-title">Card title</h5>
              <p className="card-text">{props.description}</p>
          </div>
-        <div class="card-footer">
+        <div className="card-footer">
             <a href="#" className="btn btn-primary">Find Out More!</a>
         </div>
     </div>
