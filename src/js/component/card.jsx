@@ -15,8 +15,4 @@ const Card = (props) => {
     )
 };
 
-Card.propTypes = {
-    description: PropType.string
-}
-
 export default Card;
